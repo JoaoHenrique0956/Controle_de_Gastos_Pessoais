@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256001734761",
+    "project_id": "projetopdm-f8768",
+    "storage_bucket": "projetopdm-f8768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256001734761:android:03c5a77d2558a0a3848af8",
+        "android_client_info": {
+          "package_name": "com.example.projetopdm2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNJbX3tEINhd8BiBQUkjclhrnbST9YRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
